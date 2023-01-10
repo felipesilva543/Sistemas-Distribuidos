@@ -11,7 +11,7 @@
 <table align="center" border="2">
     <tr>
         <td>Language</td>
-        <td>C </td>
+        <td>Java</td>
     </tr>
 </table>
 
@@ -24,6 +24,6 @@
 <table align="center" border="2">
     <tr>
         <td>Linguagem</td>
-        <td>C </td>
+        <td>Java</td>
     </tr>
 </table>
